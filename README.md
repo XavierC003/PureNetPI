@@ -1,6 +1,8 @@
 PureNet Pi – Unified DNS and Firewall Manager
 
-Author: [Your Name]Date: May 2025Project Type: Senior Capstone – CSCI 494
+Author: Xavier Christian 
+Date: May 2025 
+Project Type: Senior Capstone – CSCI 494
 
 📌 Overview
 
